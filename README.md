@@ -10,6 +10,7 @@
     <h3>적정 엔지니어링을 중시하며 지속적 성장을 추구하는 이태영입니다.<br />
         백엔드 개발자가 되기 위해 공부하고 있습니다. 📕</h4>
 </div>
+<img src="https://render.gitanimals.org/lines/Daybreak312" width="256" height="120"/>
 <hr>
 <div class="status">
     <div class="status-line">
