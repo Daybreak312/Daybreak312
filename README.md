@@ -12,14 +12,6 @@
 </div>
 <img src="https://render.gitanimals.org/lines/Daybreak312" width="256" height="120"/>
 <hr>
-<div class="status">
-    <div class="status-line">
-        <img src="https://github-readme-stats.vercel.app/api?username=Daybreak312&show_icons=true&theme=slateorange"
-             height=175>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leety6073" height=175>
-    </div>
-</div>
-<hr>
 <div class="info">
     <div class="info-component">
         <div class="info-header">
